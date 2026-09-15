@@ -1,0 +1,8 @@
+Priority,Insight_Type,Headline,Insight,Generated_At,Data_Type,Agent_Version
+1,Status,Overall recommendation performance,"Recommendation CTR is 30.0%, while average watch completion is 75.0%.",2026-09-14 21:22:06,Synthetic portfolio data,1.0
+2,Strength,Strongest device-time segment,Desktop during Night has the highest CTR variance at +0.45 percentage points versus the overall CTR.,2026-09-14 21:22:06,Synthetic portfolio data,1.0
+3,Risk,Lowest device-time segment,Desktop during Morning has the lowest CTR variance at -0.41 percentage points versus the overall CTR.,2026-09-14 21:22:06,Synthetic portfolio data,1.0
+4,Trend,Latest quarterly movement,Recommendation CTR changed by -0.42 percentage points in 2025Q3. This is a small movement.,2026-09-14 21:22:06,Synthetic portfolio data,1.0
+5,Category,Category performance range,"News has the highest CTR variance at +0.22 percentage points, while Music has the lowest at -0.29 percentage points. These differences are small.",2026-09-14 21:22:06,Synthetic portfolio data,1.0
+6,Engagement,Completion declines for longer videos,"Under 10 min videos have 95.8% average completion, compared with 54.4% for 50–60 min videos. This is an association and does not establish causation.",2026-09-14 21:22:06,Synthetic portfolio data,1.0
+7,Action,Recommended test,Investigate recommendation timing for Desktop users during Morning. Test changes before drawing causal conclusions.,2026-09-14 21:22:06,Synthetic portfolio data,1.0
